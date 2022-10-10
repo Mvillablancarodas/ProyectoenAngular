@@ -1,0 +1,44 @@
+img{
+    width: 200px;
+    height: 200px;
+
+}
+.row{
+    padding: 30px;
+}
+div{
+    background-color: #a1b5cb;
+    text-align: center;
+
+}
+
+/* estilo de la foto de perfil */
+@media( min-width: 576px){
+    #foto-de-perfil{
+        position: absolute;
+        width: 15%;
+        border-radius:100%;
+        box-shadow: 3px 3px 3px grey;
+        left:3%;
+        top:400px;
+
+    }
+}
+/* estilo en dunenciones chicas de la foto de perfil */
+@media( max-width: 575px){
+    #foto-de-perfil{
+        position: absolute;
+        width: 30%;
+        border-radius:100%;
+        box-shadow: 3px 3px 3px grey;
+        left:33%;
+        top:400px;
+
+    }
+} 
+/* fijarte que en dimenciones chicas la foto se superpone en el texto ver despues */
+#nombre{
+    font-weight: bold;
+    
+
+}
