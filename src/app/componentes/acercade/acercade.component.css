@@ -32,9 +32,14 @@ div{
         border-radius:100%;
         box-shadow: 3px 3px 3px grey;
         left:33%;
-        top:400px;
+        top:700px;
 
     }
+    /* verificar el parrafo que se superpone  */
+    /* .p{ 
+        left: 200px;
+        top:400px;
+    } */
 } 
 /* fijarte que en dimenciones chicas la foto se superpone en el texto ver despues */
 #nombre{

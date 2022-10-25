@@ -2,12 +2,12 @@
     background-color: #a1b5cb;
 }
 footer{
-    color: blue;
-    font-size: 14px;
+    color: #fefefe;
+    font-size: 18px;
     display: flex;
     flex-direction: column;
     text-align: center;
-    box-shadow: 2px -2px 5px blue;
+    box-shadow: 2px -2px 5px #999;
 }
 .copyright{
     background-color:#a1b5cb;

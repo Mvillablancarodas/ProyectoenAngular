@@ -7,3 +7,7 @@ div{
 h3,h4{
     display: inline;
 }
+img{
+    width: 150px;
+    height: 150px;
+}
